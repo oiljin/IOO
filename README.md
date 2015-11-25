@@ -32,7 +32,7 @@ var section = $.IOO.getUrl(0);
 
 ## Работа с языками
 
-### - Получить текуций язык из URL
+### - Получить текущий язык из URL
 ````javascript
 var lang = $.IOO.getLang();
 ````
